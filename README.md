@@ -1,24 +1,12 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Toy app build in chapter II
 
-Things you may want to cover:
+This is the second application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/book/toy_app)
+by [Michael Hartl](http://www.michaelhartl.com/). Toy 
 
-* Ruby version
+This make use of scaffold, console, models, controllers, inheritance
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I deploy it on heroku at [toy-app-rails-tuto](https://toy-app-rails-tuto.herokuapp.com/)
